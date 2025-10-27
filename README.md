@@ -20,7 +20,7 @@ Run the simulation by pushing the start button. The progress of the simulation w
 Double click on the optical power meter and the BER analyzer and move the windows as necessary for clarity. Check the box next to “Show Eye Diagram” in the BER window. The optical power meter shows the power at the input to the photodiode in both watts and dBm. The BER window displays the “eye diagram” and several quantities including the “Max Q Factor” and the “Min BER”.
 The simulation is set to run 5 “iterations”, with the fiber length varying from 50 to 150 km in 5 steps. The index is displayed in the upper right corner of the layout. To step through the iterations, use the forward and reverse buttons in the lower left of the window. Note the change in received power and BER display (eye diagram, Q factor and BER) with fiber length.
 
-TABULATION:
+# TABULATION:
 <img width="1137" height="1600" alt="image" src="https://github.com/user-attachments/assets/b21a71e7-e9fa-45c9-a990-3565d14e5fbf" />
 GRAPH:
 <img width="1065" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca158c15-e2e0-4461-adc6-79321a53bc39" />
